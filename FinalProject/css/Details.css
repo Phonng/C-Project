@@ -1,0 +1,83 @@
+.sp-content{
+	margin-top: 40px;
+}
+.sp1 {
+	line-height: 35px;
+	font-size: 18px;
+	margin: 18px;
+	float: left;
+}
+.container-sp2{
+	margin-left: 50px;
+	width: 400px;
+	height: 420px;
+}
+.container-sp2 table td tr{
+	font-size: 13px;
+	font-weight: bold;
+}
+.link-as-button {
+	font: bold 15px Arial;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 2px 6px 2px 6px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+}
+.img-sp1 img {
+	height: 100%;
+	width: 100%;
+} 
+.img-sp1 p{
+	font-size: 16px;
+	font-weight: bold;
+}
+.infor-sp1-I{
+	float: left;
+}
+.infor-sp1-r p{
+	font-size: 17px;
+	color: red;
+	font-weight: bold;
+}
+.infor-sp1-r button{
+	width: 120px;
+	height: 40px;
+	color:white;
+	font-size: 18px;
+	font-weight: bold;
+	background: #00FF00;
+	border-radius: 10px 10px 10px 10px;
+	float: right;
+}
+
+.input-quality{
+	display: flex;
+	align-items: center;
+}
+
+.input-quality .button-outline{
+	width: 3.2rem;
+	height: 3.2rem;
+}
+.input-quality .button-outline-mid{
+	width: 5rem;
+	height: 3.2rem;
+	border-left: none;
+	border-right: none;
+	font-size: 1.6rem;
+	font-weight: 400;
+	box-sizing: border-box;
+	text-align: center;
+	cursor: text;
+	border-radius: 0;
+}
+.spaceingcart{
+width: 25%; position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}

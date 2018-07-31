@@ -1,0 +1,16 @@
+﻿
+.gvOrders {
+    margin: auto;
+    width: 80%;
+    max-width: 100%;
+    background-color: transparent;
+}
+    .gvOrders tr:nth-child(even) {
+        background-color: lavender;
+    }
+    .gvOrders td, .gvOrders th {
+        padding: 10px;
+    }
+h3 {
+    margin-left: 10%;
+}
